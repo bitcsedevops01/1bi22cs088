@@ -7,7 +7,7 @@ pipeline{
 	stages{
 		stage('Checkout'){
 		steps{
-			git branch:'master',url:'https://github.com/bitcsedevops01/Gradle088.git'
+			git branch:'master',url:'https://github.com/bitcsedevops01/1bi22cs088.git'
 		}
 	}
 		stage('Build'){
